@@ -5,10 +5,9 @@ NOTE: FOR THE MOMENT THIS IS A COPY AND PASTE OF DAIBOTUTEN, BEING THIS TRADING 
 
 DON'T CONSIDER WHAT IT IS WRITTEN BELOW
 
-# <p align="center">DAIBOTUTEN<br>(a futures trading optimizer bot)</p>
-A bot to automatize the futures trading on Binance
-# Warning: The bot DOESN'T guarantee ALWAYS a profit and in case of market crash you can lose ALL your funds
-# How does it work?
+# <p align="center">BENZAIBOTEN<br>(a crypto trading optimizer bot)</p>
+A bot to automatize the crypto trading on Binance
+# Warning: Do your own research to decide on which cryptocurrencies the bot should do trading (blacklist the other cryptocurrencies)
 The bot finds the best cryptocurrencies to buy at each moment to resell them later. 
 
 It uses an algorithm powered by AI to buy where an human would buy and at the same time trying to not stay with too much opened positions, so with it you don't have to worry about buying during the best moments.
@@ -20,7 +19,7 @@ It also shows to the user three indicators:
 
 Use them to maximize the profit stopping and resuming the bot in the right times, following your own strategy.
 
-There is also a display of the balance, with a percentage about the daily profit (each day the percentage is reset): please, remember that opening and closing a position costs a small trading fee (paid to the exchange, not to the developers of the bot), so it's normal if the balance decreases a little (we are talking about cents...) during those operations.
+There is also a display of the usdt balance, with a percentage about the daily profit (each day the percentage is reset).
 
 Finally, the bot will notice you if a new version is available for the download.
 
@@ -32,9 +31,8 @@ You can also leave the bot with its own standard settings if you are a newbie.
 
 | Command  | Description | Possible Values |
 | ------------- | ------------- | ------------- |
-| **LEVERAGE** | To choose the leverage to use: higher the leverage higher the risk to incur in a loss of funds, but also higher the potential profit. | From 3 to 10. It is recommended to stay at 10 only if, after doing your own research, you think the market is in a good shape. |
-| **AMOUNT PER POSITION** | To choose how much to put at maximum in each position: in order to let the bot work well it is RECOMMENDED to have at LEAST 50 times the value you put here, so, if you choose 2 usdt it is RECOMMENDED that you have at least 100 usdt in the futures funds. However, it isn't a strict rule and so you can run the bot even with only 5 usdt (but don't expect that the bot will work well). | It depends on the leverage you use. The minimum value is 12/LEVERAGE, so, if you choose as leverage 10 you can choose 1.2 usdt or over. The maximum value is 20 usdt. |
-| **STOP LOSS** | To decide when to close a position in case of loss. The bot has its own mechanism to take care of the potential loss, but you can overwrite it with this command. | It depends on the leverage you use. The minimum value is 0% and it stands for "don't use stop loss" and the maximum value is 75/LEVERAGE%, so, if you choose as leverage 10 you can choose till 7.5% as stop loss. |
+| **AMOUNT PER POSITION** | To choose how much to put at maximum in each position: in order to let the bot work well it is RECOMMENDED to have at LEAST 30 times the value you put here, so, if you choose 20 usdt it is RECOMMENDED that you have at least 600 usdt in the futures funds. However, it isn't a strict rule and so you can run the bot even with only 50 usdt. | The minimum value is 15 usdt and the maximum value is 50 usdt. |
+| **STOP LOSS** | To decide when to close a position in case of loss. The bot has its own mechanism to take care of the potential loss, but you can overwrite it with this command. | The minimum value is 0% and it stands for "don't use stop loss" and the maximum value is 40%. |
 | **TAKE PROFIT** | To decide when to close a position in case of profit. The bot has its own mechanism to take care of the potential profit, but you can overwrite it with this command. | The minimum value is 0% and it stands for "don't use take profit" and the maximum value is 30%. |
 | **TAKE PROFIT** | To decide when to close a position in case of profit. The bot has its own mechanism to take care of the potential profit, but you can overwrite it with this command. | The minimum value is 0% and it stands for "don't use take profit" and the maximum value is 30%. |
 | **DON'T BUY IF BTC IS** | To force the bot to NOT buy ANYTHING if the price of BTC is over a certain threshold starting from the time in which it is set. | The minimum value is -10% and the maximum value is 10%. Put it to 0.0% to disable this behaviour. |
