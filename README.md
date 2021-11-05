@@ -91,9 +91,8 @@ It is possible to send tips to help the project, so greater amount than the righ
 
 The bot runs entirely in local, so it is important that the device where you install it has a good internet connection, otherwise you can incur in misbehaviour.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91144525/138165305-9f8b626d-adcd-4cc1-b290-1302562da61c.png" width="720"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/91144525/138165376-6e57d3c8-7cdb-4b77-919f-3e58ac107463.png" width="720"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/91144525/139111881-63c9804c-28a9-4c0f-97cf-7e3bac19ba3d.png" width="720"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91144525/140513103-88c402c6-772a-42f0-b4de-e88afe8469bc.png" width="720"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91144525/140513132-24b7c7c4-e017-49be-b400-f8440f70382e.png" width="720"></p>
 
 
 
@@ -114,5 +113,5 @@ Please, use this repository to check for the updates.
 
 # Latest release
 
-https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot/releases/latest
+https://github.com/mole3421278/Benzaiboten-spot-trading-bot/releases/latest
 
