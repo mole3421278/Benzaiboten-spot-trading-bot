@@ -2,7 +2,7 @@
 A trading bot easy to use to be linked to your favorite exchange to automatize the trading on cryptocurrencies
 
 # <p align="center">BENZAIBOTEN<br>(a crypto trading optimizer bot)</p>
-A bot to automatize the crypto trading on Binance
+A bot to automatize the crypto trading on Binance (twin of [Daibotuten](https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot))
 # Warning: Do your own research to decide on which cryptocurrencies the bot should do trading (blacklist the other cryptocurrencies)
 The bot finds the best cryptocurrencies to buy at each moment to resell them later. 
 
