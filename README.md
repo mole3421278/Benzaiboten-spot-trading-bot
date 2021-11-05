@@ -44,7 +44,7 @@ The first time you open the bot it will be in the STATUS UNLINKED.
 
 To start the bot the first time you need to link it to an API key: paste your API key and your API secret where required **after** having paid the **fee to link it + the monthly fee (15 usdt in total)**, otherwise the API key won't be registered.
 To create the API key go to https://www.binance.com/en/my/settings/api-management and be sure to put a tick on: 
-- Enable Futures
+- Enable Spot & Margin Trading
 
 If you don't know how to create your API key, follow this simple guide: https://www.binance.com/en/support/faq/360002502072
 
