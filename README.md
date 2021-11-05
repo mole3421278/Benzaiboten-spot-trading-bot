@@ -1,10 +1,6 @@
 # Benzaiboten-spot-trading-bot
 A trading bot easy to use to be linked to your favorite exchange to automatize the trading on cryptocurrencies
 
-NOTE: FOR THE MOMENT THIS IS A COPY AND PASTE OF DAIBOTUTEN, BEING THIS TRADING BOT A SORT OF TWIN OF DAIBOTUTEN (this is for spot trading, Daibotuten for futures trading)
-
-DON'T CONSIDER WHAT IT IS WRITTEN BELOW
-
 # <p align="center">BENZAIBOTEN<br>(a crypto trading optimizer bot)</p>
 A bot to automatize the crypto trading on Binance
 # Warning: Do your own research to decide on which cryptocurrencies the bot should do trading (blacklist the other cryptocurrencies)
