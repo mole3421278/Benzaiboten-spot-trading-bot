@@ -109,6 +109,8 @@ In the future it will be expanded:
 
 Please, use this repository to check for the updates.
 
+If you intend to use also [Daibotuten](https://github.com/mole3421278/Daibotuten-futures-trading-optimizer-bot) you don't have to pay for it separately: the dev fee to pay is the same, so for 10 usdt per month you can use both of them.
+
 # Latest release
 
 https://github.com/mole3421278/Benzaiboten-spot-trading-bot/releases/latest
