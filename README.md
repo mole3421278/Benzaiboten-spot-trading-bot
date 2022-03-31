@@ -41,6 +41,8 @@ You can also leave the bot with its own standard settings if you are a newbie.
 | **WHITELIST** | To add again to the list of the bot a cryptocurrency that you excluded before just by typing its ticker symbol and then pressing ENTER. | All the tickers that you have previously blacklisted. You can type ALL to whitelist every crypto. Don't type other things here. |
 | **STOP/RESUME** | To stop the bot with this button if you believe the market is entering in a bubble or in a big market crash, so you don't want to buy anything in that period. Clicking it again the bot will start to buy again. | |
 
+Some parameters are settable even from the file settings_bot_spot.txt (expert mode, refer to this release: https://github.com/mole3421278/Benzaiboten-spot-trading-bot/releases/tag/v1.4.0)
+
 # Activation
 The first time you open the bot it will be in the STATUS UNLINKED.
 
